@@ -77,7 +77,7 @@ while (!roomIsClean) {
 ```
 This loop continues until the room is clean.
 
-### Printing "Hello World" with a Whule Loop
+### Printing "Hello World" with a While Loop
 
 ```java
 int count = 1;
